@@ -1,4 +1,4 @@
-import { random } from "../js/util";
+import { random } from "./util";
 
 const rOne = random(10);
 const rTwo = random(20);
