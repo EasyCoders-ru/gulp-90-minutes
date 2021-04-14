@@ -15,6 +15,7 @@
     "@babel/register": "^7.13.14",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
+    "gulp-image": "^6.2.1",
     "gulp-pug": "^4.0.1",
     "gulp-webserver": "^0.9.1"
   }
