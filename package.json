@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Изучаем Gulp создавая классную среду разработки",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "EasyCoders.ru",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
 }
